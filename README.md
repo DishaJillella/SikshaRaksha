@@ -6,4 +6,7 @@ solutions to address this pressing issue.
 Technologies Used
 Frontend: HTML, CSS, JavaScript
 Backend:SQL
+
+
+
 To see the framework of the website:[SikshaRaksha.pdf](https://github.com/DishaJillella/SikshaRaksha/files/13503052/SikshaRaksha.pdf)
